@@ -48,14 +48,6 @@ I enjoy taking ideas from **research and experimentation to working software**.
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
 
-* Large Language Models
-* RAG
-* AI Agents
-* Prompt Engineering
-* Tool Calling
-* MCP
-* Vector Databases
-
 ### Backend & Application Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
@@ -88,21 +80,6 @@ Areas I'm particularly interested in:
 * Agentic software engineering
 * LLM evaluation
 * AI-generated developer feedback
-
----
-
-
-# 🤝 Let's Connect
-
-I'm interested in collaborating on:
-
-* AI/ML projects
-* Generative AI applications
-* LLM agents
-* Research projects
-* Open-source software
-* Developer tools
-* Interesting engineering problems
 
 ### GitHub
 
