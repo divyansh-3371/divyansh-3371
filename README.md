@@ -62,33 +62,5 @@ I enjoy taking ideas from **research and experimentation to working software**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
-
-# 🧪 Research Interests
-
-I'm interested in the intersection of:
-
-### AI × Software Engineering
-
-Areas I'm particularly interested in:
-
-* LLM-based automated code review
-* Explainable AI
-* AI-assisted software engineering
-* Intelligent developer tools
-* Code understanding with LLMs
-* Agentic software engineering
-* LLM evaluation
-* AI-generated developer feedback
-
-### GitHub
-
-🔗 https://github.com/divyansh-3371
-
----
-
-<p align="center">
-
-### 💡 Build. Experiment. Learn. Repeat.
 
 </p>
